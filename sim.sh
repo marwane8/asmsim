@@ -1,0 +1,1 @@
+./out/asim ./out/mov1.asm
